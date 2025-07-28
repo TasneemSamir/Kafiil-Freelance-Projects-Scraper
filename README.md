@@ -43,6 +43,8 @@ python kafiil_scraper.py
 A file named kafiil_project.csv will be generated in your project directory.
 
 📁 Output Sample
+
+
 <img width="457" height="336" alt="image" src="https://github.com/user-attachments/assets/1ea311e9-9cb2-4f4a-a8f0-62ed6d86ec1a" />
 
 
